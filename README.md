@@ -90,7 +90,7 @@ geospatial-housing-value-analysis/
 To reproduce the analysis locally:
 
 ```bash
-git clone <repo-link>
+git clone <https://github.com/gauravairy1799/geospatial-housing-value-analysis>
 cd geospatial-housing-value-analysis
 ```
 ## Author
