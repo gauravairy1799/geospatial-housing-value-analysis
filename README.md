@@ -73,4 +73,26 @@ These findings highlight the role of **statistical and spatial analysis in real-
 ---
 
 ## Project Structure
+geospatial-housing-value-analysis/
+│
+├── data/ # Housing dataset
+├── scripts/ # R analysis code
+├── outputs/ # Generated figures and tables
+├── reports/ # Final presentation/report (PDF)
+├── .gitignore
+└── README.md
 
+
+---
+
+## Reproducibility
+
+To reproduce the analysis locally:
+
+```bash
+git clone <repo-link>
+cd geospatial-housing-value-analysis
+```
+## Author
+**Gaurav Singh Airy**  
+MSc Data Analytics — Queen’s University Belfast
